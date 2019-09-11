@@ -1,0 +1,5 @@
+Lets say you have array A[0]=1 A[1]=-1 ....A[n]=x
+
+Then what would be the smartest way to find out the number of times when A[i]+A[j] is even where i < j
+
+So if we have {1,2,3,4,5} we have 1+3 1+5 2+4 3+5 = 4 pairs which are even
